@@ -86,7 +86,7 @@ server.listen(PORT, () => {
 });
 
 /**
- *  Notes for Revision (What i learned by this assignment):
+ *  What i learned by this assignment:
  * ----------------------
  * 1. All routes use consistent 'Content-Type: text/plain' headers.
  * 2. Output messages are emoji-tagged for clarity.
